@@ -1,0 +1,12 @@
+C:\Users\Fran\Desktop\Projects\Corona\Corona\bin\Debug\net6.0\Corona.deps.json
+C:\Users\Fran\Desktop\Projects\Corona\Corona\bin\Debug\net6.0\Corona.dll
+C:\Users\Fran\Desktop\Projects\Corona\Corona\bin\Debug\net6.0\Corona.pdb
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\Corona.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\Corona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\Corona.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\Corona.AssemblyInfo.cs
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\Corona.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\Corona.dll
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\refint\Corona.dll
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\Corona.pdb
+C:\Users\Fran\Desktop\Projects\Corona\Corona\obj\Debug\net6.0\ref\Corona.dll

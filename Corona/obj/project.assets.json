@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Unity3D.SDK/2021.1.14.1": {
+        "type": "package",
+        "compile": {
+          "lib/UnityEditor.dll": {},
+          "lib/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/UnityEditor.dll": {},
+          "lib/UnityEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unity3D.SDK/2021.1.14.1": {
+      "sha512": "t5wm+eCp4HvhSiAmH2lASj82QobnZe0uEwZyd+RreN4bRqB6x2kSK4uvu213TQrtMeDi+HB015wWWu2VnKpEIQ==",
+      "type": "package",
+      "path": "unity3d.sdk/2021.1.14.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/UnityEditor.dll",
+        "lib/UnityEditor.xml",
+        "lib/UnityEngine.dll",
+        "lib/UnityEngine.xml",
+        "unity3d.sdk.2021.1.14.1.nupkg.sha512",
+        "unity3d.sdk.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Unity3D.SDK >= 2021.1.14.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Fran\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Fran\\Desktop\\Projects\\Corona\\Corona\\Corona.csproj",
+      "projectName": "Corona",
+      "projectPath": "C:\\Users\\Fran\\Desktop\\Projects\\Corona\\Corona\\Corona.csproj",
+      "packagesPath": "C:\\Users\\Fran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fran\\Desktop\\Projects\\Corona\\Corona\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Fran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Unity3D.SDK": {
+            "target": "Package",
+            "version": "[2021.1.14.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Unity3D.SDK 2021.1.14.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Unity3D.SDK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Corona/1.0.0": {
+        "dependencies": {
+          "Unity3D.SDK": "2021.1.14.1"
+        },
+        "runtime": {
+          "Corona.dll": {}
+        }
+      },
+      "Unity3D.SDK/2021.1.14.1": {
+        "runtime": {
+          "lib/UnityEditor.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/UnityEngine.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Corona/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unity3D.SDK/2021.1.14.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t5wm+eCp4HvhSiAmH2lASj82QobnZe0uEwZyd+RreN4bRqB6x2kSK4uvu213TQrtMeDi+HB015wWWu2VnKpEIQ==",
+      "path": "unity3d.sdk/2021.1.14.1",
+      "hashPath": "unity3d.sdk.2021.1.14.1.nupkg.sha512"
+    }
+  }
+}
